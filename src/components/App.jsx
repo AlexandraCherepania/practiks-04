@@ -28,15 +28,15 @@ const containerStyles = {
   return (
     <div style={containerStyles}>
 
-      <Friends/>
+      {/* <Friends/> */}
 
       <PokemonView />
-      <SignupForm />
+      {/* <SignupForm /> */}
       
-      <ColorPicker options={colorPickerOptions} />
-      <Counter />
+      {/* <ColorPicker options={colorPickerOptions} /> */}
+      {/* <Counter /> */}
       
-      <Clock />
+      {/* <Clock /> */}
       
       
       
